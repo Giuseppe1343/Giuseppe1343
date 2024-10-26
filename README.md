@@ -10,6 +10,8 @@ Welcome to my GitHub profile! I'm a passionate knowledge junkie who loves diving
 
 ## Projects
 
+My current project that I am developing is [RLoggerLib](https://github.com/Giuseppe1343/RLoggerLibrary)
+
 Here are a few highlights of my work:
 
 - **[Stock Demand Forecasting](https://github.com/Giuseppe1343/StockForecastProject)**: A project where we aim to derive meaningful demand forecast results from 10 million rows of data using ML.NET.
@@ -52,6 +54,8 @@ Here are a few highlights of my work:
 ## Get in Touch
 
 - 📫 **Email**: ibrahimyusufcosgun@gmail.com
+- 💻 **Resume**: [ResumeForGithub.pdf](https://github.com/user-attachments/files/17530656/ResumeForGithub.pdf)
+
 
 Feel free to explore my repositories and reach out if you want to collaborate or just chat about tech!
 
