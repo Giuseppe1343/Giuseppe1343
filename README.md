@@ -54,7 +54,8 @@ Here are a few highlights of my work:
 ## Get in Touch
 
 - 📫 **Email**: ibrahimyusufcosgun@gmail.com
-- 💻 **Resume**: [ResumeForGithub.pdf](https://github.com/user-attachments/files/17530656/ResumeForGithub.pdf)
+- 💻 **Resume**: [ResumeForGithub.pdf](https://github.com/user-attachments/files/17540634/ResumeForGithub.pdf)
+
 
 
 Feel free to explore my repositories and reach out if you want to collaborate or just chat about tech!
